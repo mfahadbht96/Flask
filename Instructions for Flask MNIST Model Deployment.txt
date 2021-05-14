@@ -1,0 +1,9 @@
+Instructions for Flask MNIST Model Deployment
+1) Copy/move the directory (Flask Deployment) to the following path:
+	C:\Users\xyz\Documents\
+2) Copy the path of the directory
+	C:\Users\xyz\Documents\Flask Deployment
+3) Search Windows or Anaconda command prompt and Run as Administrator
+4) Write command <cd C:\Users\xyz\Documents\Flask Deployment> and press Enter
+5) Write command <python app.py> and press Enter
+6) Copy the html path provided (e.g http://127.0.0.1:5000/) and run on web browser
